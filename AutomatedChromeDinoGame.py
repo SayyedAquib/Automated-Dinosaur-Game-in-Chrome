@@ -29,7 +29,7 @@ def isCollide(data):
 
 if __name__ == "__main__":
     print("Hey.. Dino game about to start in 3 seconds")
-    time.sleep(1)
+    time.sleep(5)
 
 
     while True:
